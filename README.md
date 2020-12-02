@@ -3,7 +3,7 @@
 * python 3.6
 * jupyter notebook
 ## required packages
-* numpt
+* numpy
 * pandas
 * sklearn
 * xgboost
