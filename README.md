@@ -10,6 +10,6 @@
 * fbprophet
 * matplotlib
 ## code explanation
-first part is to read data, create feature and use xgboost to make prediction
-second part try to use facebook's Prophet to make prediction, but did not have a godd result
+* first part is to read data, create feature and use xgboost to make prediction
+* second part try to use facebook's Prophet to make prediction, but did not have a godd result
 the last two part try two method to tune the model
